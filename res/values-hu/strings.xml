@@ -436,17 +436,6 @@
     <string name="preview_carrier_title">Szolgáltató</string>
     <string name="stats_collection_title">Statisztika gyűjtése</string>
     <string name="stats_collection_summary">A telepítés- és eszközstatisztikai adatok összegyűjtésének engedélyezése</string>
-    <string name="accelerometer_title">Kijelző automatikus forgatása</string>
-    <string name="display_rotation_title">Forgatási beállítások</string>
-    <string name="display_rotation_enabled">Automatikus forgatás engedélyezve</string>
-    <string name="display_rotation_disabled">Automatikus forgatás letiltva</string>
-    <string name="display_rotation_unit">fok</string>
-    <string name="display_lockscreen_rotation_title">Képernyőzár elforgatása</string>
-    <string name="display_rotation_category_title">Forgatás módok</string>
-    <string name="display_rotation_0_title">0 fok</string>
-    <string name="display_rotation_90_title">90 fok</string>
-    <string name="display_rotation_180_title">180 fok</string>
-    <string name="display_rotation_270_title">270 fok</string>
     <string name="long_screen_settings_title">Teljesképernyős alkalmazások</string>
     <string name="long_screen_settings_summary">Régi alkalmazások kényszerítése, hogy a teljes képernyőt használják</string>
     <string name="long_screen_settings_no_apps">Nincsenek alkalmazások</string>

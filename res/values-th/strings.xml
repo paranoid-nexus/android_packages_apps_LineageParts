@@ -393,17 +393,6 @@
     <string name="preview_carrier_title">ผู้ให้บริการ</string>
     <string name="stats_collection_title">การเก็บสถิติ</string>
     <string name="stats_collection_summary">อนุญาตให้ติดตั้งอุปกรณ์และเก็บรวบรวมสถิติ</string>
-    <string name="accelerometer_title">หมุน​หน้า​จอ​อัตโนมัติ</string>
-    <string name="display_rotation_title">การตั้งค่าการหมุน</string>
-    <string name="display_rotation_enabled">การหมุนอัตโนมัติ เปิดอยู่</string>
-    <string name="display_rotation_disabled">การหมุนอัตโนมัติ ปิดอยู่</string>
-    <string name="display_rotation_unit">องศา</string>
-    <string name="display_lockscreen_rotation_title">หมุนหน้าจอล็อค</string>
-    <string name="display_rotation_category_title">รูปแบบการหมุน</string>
-    <string name="display_rotation_0_title">0 องศา</string>
-    <string name="display_rotation_90_title">90 องศา</string>
-    <string name="display_rotation_180_title">180 องศา</string>
-    <string name="display_rotation_270_title">270 องศา</string>
     <string name="long_screen_settings_title">แอปพลิเคชันเต็มหน้าจอ</string>
     <string name="long_screen_settings_summary">บังคับให้แอปเก่าใช้อัตราส่วนจอแบบเต็ม</string>
     <string name="long_screen_settings_no_apps">ไม่มีแอป</string>

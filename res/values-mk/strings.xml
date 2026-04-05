@@ -348,17 +348,6 @@
     <string name="preview_carrier_title">Оператор</string>
     <string name="stats_collection_title">Собирање статистика</string>
     <string name="stats_collection_summary">Дозволи да се соберат метрите за инсталација и статистика на уредот</string>
-    <string name="accelerometer_title">Автоматско ротирање на екранот</string>
-    <string name="display_rotation_title">Поставувања за ротација</string>
-    <string name="display_rotation_enabled">Автоматската ротација е овозможена</string>
-    <string name="display_rotation_disabled">Автоматската ротација е оневозможена</string>
-    <string name="display_rotation_unit">степени</string>
-    <string name="display_lockscreen_rotation_title">Ротирај го екранот за заклучување</string>
-    <string name="display_rotation_category_title">Режими на ротација</string>
-    <string name="display_rotation_0_title">0 степени</string>
-    <string name="display_rotation_90_title">90 степени</string>
-    <string name="display_rotation_180_title">180 степени</string>
-    <string name="display_rotation_270_title">270 степени</string>
     <string name="charging_sounds_settings_title">Звуци за полнење</string>
     <string name="charging_sounds_summary">Репродуцирај звук при поврзување или исклучување на извор на енергија</string>
     <string name="power_notifications_vibrate_title">Вибрација</string>

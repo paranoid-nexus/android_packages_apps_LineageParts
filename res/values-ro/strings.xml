@@ -438,17 +438,6 @@
     <string name="preview_carrier_title">Operator</string>
     <string name="stats_collection_title">Colectarea de statistici</string>
     <string name="stats_collection_summary">Permiteți ca măsurătorile instalării și statisticile dispozitivului să fie colectate</string>
-    <string name="accelerometer_title">Rotire automată a ecranului</string>
-    <string name="display_rotation_title">Setări de rotaţie</string>
-    <string name="display_rotation_enabled">Auto-rotaţia este activată</string>
-    <string name="display_rotation_disabled">Auto-rotaţia este dezactivată</string>
-    <string name="display_rotation_unit">grade</string>
-    <string name="display_lockscreen_rotation_title">Rotire ecran de blocare</string>
-    <string name="display_rotation_category_title">Moduri de rotire</string>
-    <string name="display_rotation_0_title">0 grade</string>
-    <string name="display_rotation_90_title">90 de grade</string>
-    <string name="display_rotation_180_title">180 de grade</string>
-    <string name="display_rotation_270_title">270 de grade</string>
     <string name="long_screen_settings_title">Aplicații ecran complet</string>
     <string name="long_screen_settings_summary">Forțează aplicațiile vechi să utilizeze ecranul complet</string>
     <string name="long_screen_settings_no_apps">Nicio aplicație</string>

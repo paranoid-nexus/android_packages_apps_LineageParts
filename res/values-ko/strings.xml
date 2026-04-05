@@ -436,17 +436,6 @@
     <string name="preview_carrier_title">통신사</string>
     <string name="stats_collection_title">통계 수집</string>
     <string name="stats_collection_summary">설치 메트릭 및 기기 통계 수집 허용</string>
-    <string name="accelerometer_title">화면 자동 회전</string>
-    <string name="display_rotation_title">회전 설정</string>
-    <string name="display_rotation_enabled">자동 회전 켜짐</string>
-    <string name="display_rotation_disabled">자동 회전 꺼짐</string>
-    <string name="display_rotation_unit">도</string>
-    <string name="display_lockscreen_rotation_title">잠금 화면 회전</string>
-    <string name="display_rotation_category_title">회전 모드</string>
-    <string name="display_rotation_0_title">0도</string>
-    <string name="display_rotation_90_title">90도</string>
-    <string name="display_rotation_180_title">180도</string>
-    <string name="display_rotation_270_title">270도</string>
     <string name="long_screen_settings_title">전체 화면 앱</string>
     <string name="long_screen_settings_summary">레거시 앱에서 전체 화면 가로 세로 비율 강제 사용</string>
     <string name="long_screen_settings_no_apps">앱 없음</string>

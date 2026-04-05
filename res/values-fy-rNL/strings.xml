@@ -384,17 +384,6 @@
     <string name="preview_carrier_title">Provider</string>
     <string name="stats_collection_title">Sammeling fan statistiken</string>
     <string name="stats_collection_summary">Tastean dat ynstallaasje- en apparaatstatistiken sammele wurde</string>
-    <string name="accelerometer_title">Skerm automatysk draaie</string>
-    <string name="display_rotation_title">Rotaasje-ynstellingen</string>
-    <string name="display_rotation_enabled">Auto-rotaasje is ynskeakele</string>
-    <string name="display_rotation_disabled">Auto-rotaasje is útskeakele</string>
-    <string name="display_rotation_unit">graden</string>
-    <string name="display_lockscreen_rotation_title">Beskoattelingsskerm automatysk draaie</string>
-    <string name="display_rotation_category_title">Draaistannen</string>
-    <string name="display_rotation_0_title">0 graden</string>
-    <string name="display_rotation_90_title">90 graden</string>
-    <string name="display_rotation_180_title">180 graden</string>
-    <string name="display_rotation_270_title">270 graden</string>
     <string name="long_screen_settings_title">Folslein skerm apps</string>
     <string name="long_screen_settings_summary">Alde apps forsearje op folslein skerm</string>
     <string name="long_screen_settings_no_apps">Gjin apps</string>

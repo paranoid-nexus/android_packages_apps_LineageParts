@@ -438,17 +438,6 @@
     <string name="preview_carrier_title">Operator</string>
     <string name="stats_collection_title">Zbieranie statystyk</string>
     <string name="stats_collection_summary">Zezwól na gromadzenie danych instalacyjnych i statystyk urządzenia</string>
-    <string name="accelerometer_title">Automatyczne obracanie ekranu</string>
-    <string name="display_rotation_title">Ustawienia obracania</string>
-    <string name="display_rotation_enabled">Automatyczna rotacja jest włączona</string>
-    <string name="display_rotation_disabled">Automatyczna rotacja jest wyłączona</string>
-    <string name="display_rotation_unit">stopni(e)</string>
-    <string name="display_lockscreen_rotation_title">Autoobracanie ekranu blokady</string>
-    <string name="display_rotation_category_title">Tryby obracania</string>
-    <string name="display_rotation_0_title">0 stopni</string>
-    <string name="display_rotation_90_title">90 stopni</string>
-    <string name="display_rotation_180_title">180 stopni</string>
-    <string name="display_rotation_270_title">270 stopni</string>
     <string name="long_screen_settings_title">Aplikacje pełnoekranowe</string>
     <string name="long_screen_settings_summary">Wymuś na starszych aplikacjach korzystanie z pełnych proporcji ekranu</string>
     <string name="long_screen_settings_no_apps">Brak aplikacji</string>

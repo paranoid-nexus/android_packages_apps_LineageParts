@@ -434,17 +434,6 @@
     <string name="preview_carrier_title">電信業者</string>
     <string name="stats_collection_title">統計資料收集</string>
     <string name="stats_collection_summary">允許收集安裝指標和裝置統計資訊</string>
-    <string name="accelerometer_title">自動旋轉螢幕</string>
-    <string name="display_rotation_title">旋轉設定</string>
-    <string name="display_rotation_enabled">啟用自動旋轉</string>
-    <string name="display_rotation_disabled">停用自動旋轉</string>
-    <string name="display_rotation_unit">度</string>
-    <string name="display_lockscreen_rotation_title">旋轉鎖定畫面</string>
-    <string name="display_rotation_category_title">旋轉模式</string>
-    <string name="display_rotation_0_title">0 度</string>
-    <string name="display_rotation_90_title">90 度</string>
-    <string name="display_rotation_180_title">180 度</string>
-    <string name="display_rotation_270_title">270 度</string>
     <string name="long_screen_settings_title">全螢幕應用程式</string>
     <string name="long_screen_settings_summary">強制舊型應用程式使用全螢幕的比例</string>
     <string name="long_screen_settings_no_apps">沒有應用程式</string>

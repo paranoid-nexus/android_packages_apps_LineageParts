@@ -299,16 +299,6 @@
     <string name="preview_country_title">Краіна</string>
     <string name="preview_carrier_title">Аператар</string>
     <string name="stats_collection_title">Збор статыстыкі</string>
-    <string name="accelerometer_title">Аўтапаварот экрана</string>
-    <string name="display_rotation_enabled">Аўтапаварот уключаны</string>
-    <string name="display_rotation_disabled">Аўтапаварот адключаны</string>
-    <string name="display_rotation_unit">градусаў</string>
-    <string name="display_lockscreen_rotation_title">Аўтапаварот экрана блакіроўкі</string>
-    <string name="display_rotation_category_title">Рэжымы павароту</string>
-    <string name="display_rotation_0_title">0 градусаў</string>
-    <string name="display_rotation_90_title">90 градусаў</string>
-    <string name="display_rotation_180_title">180 градусаў</string>
-    <string name="display_rotation_270_title">270 градусаў</string>
     <string name="long_screen_settings_title">Поўнаэкранныя праграмы</string>
     <string name="long_screen_settings_summary">Прымусовае выкарыстанне поўнаэкраннага рэжыму састарэлымі праграмамі</string>
     <string name="long_screen_settings_no_apps">Няма праграм</string>

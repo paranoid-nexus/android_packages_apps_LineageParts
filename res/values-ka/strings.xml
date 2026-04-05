@@ -438,17 +438,6 @@
     <string name="preview_carrier_title">ოპერატორი</string>
     <string name="stats_collection_title">სტატისტიკური აღრიცხვა</string>
     <string name="stats_collection_summary">ნებართვა, რომ აღირიცხოს დაყენების რაოდენობა და მოწყობილობის სტატისტიკა</string>
-    <string name="accelerometer_title">ეკრანის თვითშებრუნება</string>
-    <string name="display_rotation_title">შებრუნების პარამეტრები</string>
-    <string name="display_rotation_enabled">თვითშებრუნება ჩართულია</string>
-    <string name="display_rotation_disabled">თვითშებრუნება გამორთულია</string>
-    <string name="display_rotation_unit">გრადუსი</string>
-    <string name="display_lockscreen_rotation_title">ჩამკეტი ეკრანის შებრუნება</string>
-    <string name="display_rotation_category_title">შებრუნების რეჟიმები</string>
-    <string name="display_rotation_0_title">0 გრადუსი</string>
-    <string name="display_rotation_90_title">90 გრადუსი</string>
-    <string name="display_rotation_180_title">180 გრადუსი</string>
-    <string name="display_rotation_270_title">270 გრადუსი</string>
     <string name="long_screen_settings_title">სრულეკრანიანი აპები</string>
     <string name="long_screen_settings_summary">მოძველებული აპებისთვის სრული ეკრანით სარგებლობის იძულება</string>
     <string name="long_screen_settings_no_apps">აპები არაა</string>

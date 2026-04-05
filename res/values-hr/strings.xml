@@ -390,17 +390,6 @@
     <string name="preview_carrier_title">Operater</string>
     <string name="stats_collection_title">Prikupljene statistike</string>
     <string name="stats_collection_summary">Dopustite prikupljanje metrika instalacije i statistike o uređaju</string>
-    <string name="accelerometer_title">Autom. rotacija zaslona</string>
-    <string name="display_rotation_title">Postavke rotacije</string>
-    <string name="display_rotation_enabled">Autom. rotacija je omogućena</string>
-    <string name="display_rotation_disabled">Autom. rotacija je onemogućena</string>
-    <string name="display_rotation_unit">stupnjeva</string>
-    <string name="display_lockscreen_rotation_title">Rotiraj zaključani zaslon</string>
-    <string name="display_rotation_category_title">Način rotacije</string>
-    <string name="display_rotation_0_title">0 stupnjeva</string>
-    <string name="display_rotation_90_title">90 stupnjeva</string>
-    <string name="display_rotation_180_title">180 stupnjeva</string>
-    <string name="display_rotation_270_title">270 stupnjeva</string>
     <string name="charging_sounds_settings_title">Zvukovi punjenja</string>
     <string name="charging_sounds_summary">Reproducirat će zvuk pri spajanju ili odspajanju s izvora napajanja</string>
     <string name="power_notifications_vibrate_title">Vibracija</string>

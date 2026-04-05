@@ -436,17 +436,6 @@
     <string name="preview_carrier_title">运营商</string>
     <string name="stats_collection_title">统计数据收集</string>
     <string name="stats_collection_summary">允许收集安装指标和设备统计信息</string>
-    <string name="accelerometer_title">自动旋转屏幕</string>
-    <string name="display_rotation_title">旋转设置</string>
-    <string name="display_rotation_enabled">启用自动旋转</string>
-    <string name="display_rotation_disabled">禁用自动旋转</string>
-    <string name="display_rotation_unit">度</string>
-    <string name="display_lockscreen_rotation_title">旋转锁屏界面</string>
-    <string name="display_rotation_category_title">旋转模式</string>
-    <string name="display_rotation_0_title">0 度</string>
-    <string name="display_rotation_90_title">90 度</string>
-    <string name="display_rotation_180_title">180 度</string>
-    <string name="display_rotation_270_title">270 度</string>
     <string name="long_screen_settings_title">全屏应用</string>
     <string name="long_screen_settings_summary">强制旧式应用程序使用全屏长宽比</string>
     <string name="long_screen_settings_no_apps">无应用</string>

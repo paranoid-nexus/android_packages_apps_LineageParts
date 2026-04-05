@@ -378,17 +378,6 @@
     <string name="preview_carrier_title">חברת סלולר</string>
     <string name="stats_collection_title">אוסף סטטיסטיקה</string>
     <string name="stats_collection_summary">אפשר איסוף סטטיסטיקות מכשיר</string>
-    <string name="accelerometer_title">סיבוב אוטומטי של המסך</string>
-    <string name="display_rotation_title">הגדרות סיבוב</string>
-    <string name="display_rotation_enabled">סיבוב אוטומטי מופעל</string>
-    <string name="display_rotation_disabled">סיבוב אוטומטי כבוי</string>
-    <string name="display_rotation_unit">מעלות</string>
-    <string name="display_lockscreen_rotation_title">סובב מסך נעילה</string>
-    <string name="display_rotation_category_title">מצבי סיבוב</string>
-    <string name="display_rotation_0_title">0 מעלות</string>
-    <string name="display_rotation_90_title">90 מעלות</string>
-    <string name="display_rotation_180_title">180 מעלות</string>
-    <string name="display_rotation_270_title">270 מעלות</string>
     <string name="long_screen_settings_title">יישומים במסך מלא</string>
     <string name="long_screen_settings_summary">אכוף יישומים ישנים להמתח במסך מלא</string>
     <string name="charging_sounds_settings_title">צלילי טעינה</string>

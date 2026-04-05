@@ -440,17 +440,6 @@
     <string name="preview_carrier_title">Πάροχος</string>
     <string name="stats_collection_title">Συλλογή στατιστικών</string>
     <string name="stats_collection_summary">Να επιτρέπεται η συλλογή στατιστικών στοιχείων συσκευής</string>
-    <string name="accelerometer_title">Αυτόματη περιστροφή οθόνης</string>
-    <string name="display_rotation_title">Ρυθμίσεις περιστροφής</string>
-    <string name="display_rotation_enabled">Η αυτόματη περιστροφή είναι ενεργοποιημένη</string>
-    <string name="display_rotation_disabled">Η αυτόματη περιστροφή είναι απενεργοποιημένη</string>
-    <string name="display_rotation_unit">μοίρες</string>
-    <string name="display_lockscreen_rotation_title">Περιστροφή οθόνης κλειδώματος</string>
-    <string name="display_rotation_category_title">Επιλογές περιστροφής</string>
-    <string name="display_rotation_0_title">0 μοίρες</string>
-    <string name="display_rotation_90_title">90 μοίρες</string>
-    <string name="display_rotation_180_title">180 μοίρες</string>
-    <string name="display_rotation_270_title">270 μοίρες</string>
     <string name="long_screen_settings_title">Εφαρμογές πλήρους οθόνης</string>
     <string name="long_screen_settings_summary">Αναγκάστε τις εφαρμογές παλαιού τύπου να χρησιμοποιούν αναλογία διαστάσεων πλήρους οθόνης</string>
     <string name="long_screen_settings_no_apps">Δεν υπάρχουν εφαρμογές</string>

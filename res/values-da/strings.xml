@@ -419,17 +419,6 @@
     <string name="preview_carrier_title">Operatør</string>
     <string name="stats_collection_title">Indsamling af statistik</string>
     <string name="stats_collection_summary">Tillad installationsdata og enhedsstatistik at blive indsamlet</string>
-    <string name="accelerometer_title">Automatisk rotation af skærmen</string>
-    <string name="display_rotation_title">Rotationsindstillinger</string>
-    <string name="display_rotation_enabled">Auto-rotation er aktiveret</string>
-    <string name="display_rotation_disabled">Auto-rotation er deaktiveret</string>
-    <string name="display_rotation_unit">grader</string>
-    <string name="display_lockscreen_rotation_title">Rotér skærmlås</string>
-    <string name="display_rotation_category_title">Rotationstilstande</string>
-    <string name="display_rotation_0_title">0 grader</string>
-    <string name="display_rotation_90_title">90 grader</string>
-    <string name="display_rotation_180_title">180 grader</string>
-    <string name="display_rotation_270_title">270 grader</string>
     <string name="charging_sounds_settings_title">Opladningslyde</string>
     <string name="charging_sounds_enable_title">Aktivér opladningslyde</string>
     <string name="charging_sounds_summary">Afspil en lyd, når du tilslutter eller frakobler en strømkilde</string>

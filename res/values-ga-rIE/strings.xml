@@ -438,17 +438,6 @@
     <string name="preview_carrier_title">Iompróir</string>
     <string name="stats_collection_title">Bailiúchán staitisticí</string>
     <string name="stats_collection_summary">Ceadaigh méadracht suiteála agus staitisticí gléas a bhailiú</string>
-    <string name="accelerometer_title">Uath-rothlú scáileán</string>
-    <string name="display_rotation_title">Socruithe rothlaithe</string>
-    <string name="display_rotation_enabled">Tá uath-uainíocht cumasaithe</string>
-    <string name="display_rotation_disabled">Tá uath-uainíocht díchumasaithe</string>
-    <string name="display_rotation_unit">céimeanna</string>
-    <string name="display_lockscreen_rotation_title">Rothlaigh an scáileán glas</string>
-    <string name="display_rotation_category_title">Modhanna rothlaithe</string>
-    <string name="display_rotation_0_title">0 céim</string>
-    <string name="display_rotation_90_title">90 céim</string>
-    <string name="display_rotation_180_title">180 céim</string>
-    <string name="display_rotation_270_title">270 céim</string>
     <string name="long_screen_settings_title">Aippeanna scáileán iomlán</string>
     <string name="long_screen_settings_summary">Cuir iallach ar aipeanna leagáide úsáid a bhaint as cóimheas gné lánscáileáin</string>
     <string name="long_screen_settings_no_apps">Uimh aipeanna</string>

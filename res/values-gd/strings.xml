@@ -413,17 +413,6 @@
     <string name="preview_carrier_title">Giùlanair</string>
     <string name="stats_collection_title">Cruinneachadh na stadastaireachd</string>
     <string name="stats_collection_summary">Ceadaich gun dèid meatraigeachd is stadastaireachd an uidheim a chruinneachadh</string>
-    <string name="accelerometer_title">Cuairtich an sgrìn gu fèin-obrachail</string>
-    <string name="display_rotation_title">Roghainnean a’ chuairteachaidh</string>
-    <string name="display_rotation_enabled">Tha an cuairteachadh fèin-obrachail an comas</string>
-    <string name="display_rotation_disabled">Tha an cuairteachadh fèin-obrachail à comas</string>
-    <string name="display_rotation_unit">ceum</string>
-    <string name="display_lockscreen_rotation_title">Cuairtich an sgrìn-ghlasaidh</string>
-    <string name="display_rotation_category_title">Modhan a’ chuairteachaidh</string>
-    <string name="display_rotation_0_title">0 ceum</string>
-    <string name="display_rotation_90_title">90 ceum</string>
-    <string name="display_rotation_180_title">180 ceum</string>
-    <string name="display_rotation_270_title">270 ceum</string>
     <string name="long_screen_settings_title">Aplacaidean làn-sgrìn</string>
     <string name="long_screen_settings_summary">Spàrr air aplacaidean dìleabach gun cleachd iad co-mheas deilbh na làn-sgrìn</string>
     <string name="long_screen_settings_no_apps">Chan eil aplacaid ann</string>

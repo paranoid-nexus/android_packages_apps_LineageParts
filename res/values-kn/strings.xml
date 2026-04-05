@@ -376,16 +376,6 @@
     <string name="preview_carrier_title">ವಾಹಕ</string>
     <string name="stats_collection_title">ಅಂಕ್ಯಾಂಶಗಳ ಸಂಗ್ರಹಣೆ</string>
     <string name="stats_collection_summary">ಅನುಸ್ಥಾಪನಾ ಮತ್ತು ಸಾಧನದ ಅಂಕ್ಯಾಂಶಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು ಅನುಮತಿಸು</string>
-    <string name="accelerometer_title">ಪರದೆ ಸ್ವಯಂ ಆವರ್ತಿಸು</string>
-    <string name="display_rotation_title">ಆವರ್ತನೆಯ ಅಳವಡಿಕೆಗಳು</string>
-    <string name="display_rotation_enabled">ಸ್ವಯಂ-ಆವರ್ತನೆ ಸಶಕ್ತ</string>
-    <string name="display_rotation_disabled">ಸ್ವಯಂ-ಆವರ್ತನೆ ಅಶಕ್ತ</string>
-    <string name="display_rotation_unit">ಡಿಗ್ರಿಗಳು</string>
-    <string name="display_lockscreen_rotation_title">ಬಿಗಿದ ಪರದೆ ಆವರ್ತಿಸು</string>
-    <string name="display_rotation_category_title">ಆವರ್ತನೆ ರೀತಿಗಳು</string>
-    <string name="display_rotation_90_title">೯೦ ಡಿಗ್ರಿಗಳು</string>
-    <string name="display_rotation_180_title">೧೮೦ ಡಿಗ್ರಿಗಳು</string>
-    <string name="display_rotation_270_title">೨೭೦ ಡಿಗ್ರಿಗಳು</string>
     <string name="long_screen_settings_title">ಪೂರ್ಣ ಪರದೆಯ ಆಪ್ಗಳು</string>
     <string name="long_screen_settings_summary">ಪೂರ್ವಾರ್ಜಿತ ಆಪ್ಗಳಿಗೆ ಪೂರ್ಣ ಪರದೆ ಅನುಪಾತವನ್ನು ಬಳಸಲು ಒತ್ತಾಯಿಸು</string>
     <string name="charging_sounds_settings_title">ತುಂಬುಕ ಶಬ್ಧಗಳು</string>

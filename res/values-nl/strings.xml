@@ -436,17 +436,6 @@
     <string name="preview_carrier_title">Provider</string>
     <string name="stats_collection_title">Verzamelen van statistieken</string>
     <string name="stats_collection_summary">Toestaan dat installatie- en apparaatstatistieken worden verzameld</string>
-    <string name="accelerometer_title">Scherm automatisch draaien</string>
-    <string name="display_rotation_title">Rotatie-instellingen</string>
-    <string name="display_rotation_enabled">Auto-rotatie is ingeschakeld</string>
-    <string name="display_rotation_disabled">Auto-rotatie is uitgeschakeld</string>
-    <string name="display_rotation_unit">graden</string>
-    <string name="display_lockscreen_rotation_title">Vergrendelingsscherm automatisch draaien</string>
-    <string name="display_rotation_category_title">Draaistanden</string>
-    <string name="display_rotation_0_title">0 graden</string>
-    <string name="display_rotation_90_title">90 graden</string>
-    <string name="display_rotation_180_title">180 graden</string>
-    <string name="display_rotation_270_title">270 graden</string>
     <string name="long_screen_settings_title">Volledig scherm apps</string>
     <string name="long_screen_settings_summary">Oude apps forceren op volledig scherm</string>
     <string name="long_screen_settings_no_apps">Geen apps</string>

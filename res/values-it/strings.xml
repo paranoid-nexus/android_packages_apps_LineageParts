@@ -436,17 +436,6 @@
     <string name="preview_carrier_title">Operatore</string>
     <string name="stats_collection_title">Raccolta statistiche</string>
     <string name="stats_collection_summary">Consenti la raccolta di metriche delle installazioni e tipologia dispositivo</string>
-    <string name="accelerometer_title">Rotazione automatica schermo</string>
-    <string name="display_rotation_title">Impostazioni rotazione</string>
-    <string name="display_rotation_enabled">La rotazione automatica è attivata</string>
-    <string name="display_rotation_disabled">La rotazione automatica è disattivata</string>
-    <string name="display_rotation_unit">gradi</string>
-    <string name="display_lockscreen_rotation_title">Ruota blocco schermo</string>
-    <string name="display_rotation_category_title">Modalità rotazione</string>
-    <string name="display_rotation_0_title">0 gradi</string>
-    <string name="display_rotation_90_title">90 gradi</string>
-    <string name="display_rotation_180_title">180 gradi</string>
-    <string name="display_rotation_270_title">270 gradi</string>
     <string name="long_screen_settings_title">App a schermo intero</string>
     <string name="long_screen_settings_summary">Forza le app ad utilizzare lo schermo intero</string>
     <string name="long_screen_settings_no_apps">Nessuna app</string>

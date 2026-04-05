@@ -438,17 +438,6 @@
     <string name="preview_carrier_title">Ponudnik</string>
     <string name="stats_collection_title">Zbiranje statistike</string>
     <string name="stats_collection_summary">Dovoli zbiranje meritev in statistike naprave</string>
-    <string name="accelerometer_title">Samodejno zasukaj zaslon</string>
-    <string name="display_rotation_title">Nastavitve sukanja</string>
-    <string name="display_rotation_enabled">Samodejno sukanje je omogočeno</string>
-    <string name="display_rotation_disabled">Samodejno sukanje je onemogočeno</string>
-    <string name="display_rotation_unit">stopinj</string>
-    <string name="display_lockscreen_rotation_title">Zasukaj zaklenjen zaslon</string>
-    <string name="display_rotation_category_title">Načini sukanja</string>
-    <string name="display_rotation_0_title">0 stopinj</string>
-    <string name="display_rotation_90_title">90 stopinj</string>
-    <string name="display_rotation_180_title">180 stopinj</string>
-    <string name="display_rotation_270_title">270 stopinj</string>
     <string name="long_screen_settings_title">Celozaslonske aplikacije</string>
     <string name="long_screen_settings_summary">Vsili starim aplikacijam uporabo celozaslonskega razmerja slike</string>
     <string name="long_screen_settings_no_apps">Ni aplikacij</string>

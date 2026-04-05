@@ -436,17 +436,6 @@
     <string name="preview_carrier_title">Nhà mạng</string>
     <string name="stats_collection_title">Thu thập số liệu thống kê</string>
     <string name="stats_collection_summary">Cho phép chỉ số cài đặt và số liệu thống kê thiết bị được thu thập</string>
-    <string name="accelerometer_title">Tự động xoay màn hình</string>
-    <string name="display_rotation_title">Cài đặt xoay</string>
-    <string name="display_rotation_enabled">Tự động xoay được bật</string>
-    <string name="display_rotation_disabled">Tự động xoay bị tắt</string>
-    <string name="display_rotation_unit">độ</string>
-    <string name="display_lockscreen_rotation_title">Xoay màn hình khóa</string>
-    <string name="display_rotation_category_title">Chế độ xoay</string>
-    <string name="display_rotation_0_title">0 độ</string>
-    <string name="display_rotation_90_title">90 độ</string>
-    <string name="display_rotation_180_title">180 độ</string>
-    <string name="display_rotation_270_title">270 độ</string>
     <string name="long_screen_settings_title">Ứng dụng toàn màn hình</string>
     <string name="long_screen_settings_summary">Buộc ứng dụng cũ sử dụng tỷ lệ cỡ ảnh toàn màn hình</string>
     <string name="long_screen_settings_no_apps">Không có ứng dụng</string>

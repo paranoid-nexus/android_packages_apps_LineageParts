@@ -380,17 +380,6 @@
     <string name="preview_carrier_title">Оператор</string>
     <string name="stats_collection_title">Збір статистики</string>
     <string name="stats_collection_summary">Дозволити збір статистики пристрою та відомостей про встановлення</string>
-    <string name="accelerometer_title">Автоповорот екрану</string>
-    <string name="display_rotation_title">Параметри обертання</string>
-    <string name="display_rotation_enabled">Автоповорот увімкнуто</string>
-    <string name="display_rotation_disabled">Автоповорот вимкнуто</string>
-    <string name="display_rotation_unit">градусів</string>
-    <string name="display_lockscreen_rotation_title">Обертати екран блокування</string>
-    <string name="display_rotation_category_title">Режими обертання</string>
-    <string name="display_rotation_0_title">0 градусів</string>
-    <string name="display_rotation_90_title">90 градусів</string>
-    <string name="display_rotation_180_title">180 градусів</string>
-    <string name="display_rotation_270_title">270 градусів</string>
     <string name="charging_sounds_settings_title">Звуки зарядки</string>
     <string name="charging_sounds_enable_title">Увімкнути звуки заряджання</string>
     <string name="charging_sounds_summary">Грати звук при підключенні чи від\'єднанні від зарядного пристрою</string>

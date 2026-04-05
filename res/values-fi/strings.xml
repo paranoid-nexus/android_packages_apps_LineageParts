@@ -406,17 +406,6 @@
     <string name="preview_carrier_title">Operaattori</string>
     <string name="stats_collection_title">Tilastojen keräys</string>
     <string name="stats_collection_summary">Salli asennus- ja laitteen tietojen kerääminen</string>
-    <string name="accelerometer_title">Näytön automaattinen kierto</string>
-    <string name="display_rotation_title">Asennon asetukset</string>
-    <string name="display_rotation_enabled">Automaattinen kierto on käytössä</string>
-    <string name="display_rotation_disabled">Automaattinen kierto on pois käytöstä</string>
-    <string name="display_rotation_unit">astetta</string>
-    <string name="display_lockscreen_rotation_title">Käännä lukitusnäyttöä</string>
-    <string name="display_rotation_category_title">Näytön asennot</string>
-    <string name="display_rotation_0_title">0 astetta</string>
-    <string name="display_rotation_90_title">90 astetta</string>
-    <string name="display_rotation_180_title">180 astetta</string>
-    <string name="display_rotation_270_title">270 astetta</string>
     <string name="long_screen_settings_title">Koko näytön sovellukset</string>
     <string name="long_screen_settings_summary">Pakota vanhat sovellukset käyttämään koko näytön suhdetta</string>
     <string name="long_screen_settings_no_apps">Ei sovelluksia</string>

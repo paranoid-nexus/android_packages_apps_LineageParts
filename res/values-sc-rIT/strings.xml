@@ -90,10 +90,5 @@
     <string name="anonymous_statistics_warning_title">Informatziones</string>
     <string name="preview_version_title">Versione</string>
     <string name="preview_country_title">Istadu</string>
-    <string name="display_rotation_unit">grados</string>
-    <string name="display_rotation_0_title">0 grados</string>
-    <string name="display_rotation_90_title">90 grados</string>
-    <string name="display_rotation_180_title">180 grados</string>
-    <string name="display_rotation_270_title">270 grados</string>
     <string name="power_notifications_vibrate_title">Vibratzione</string>
 </resources>

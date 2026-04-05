@@ -436,17 +436,6 @@
     <string name="preview_carrier_title">Оператор</string>
     <string name="stats_collection_title">Сбор статистики</string>
     <string name="stats_collection_summary">Разрешить сбор статистики устройства и сведений об установке</string>
-    <string name="accelerometer_title">Автоповорот экрана</string>
-    <string name="display_rotation_title">Параметры вращения</string>
-    <string name="display_rotation_enabled">Автоповорот включен</string>
-    <string name="display_rotation_disabled">Автоповорот выключен</string>
-    <string name="display_rotation_unit">градусов</string>
-    <string name="display_lockscreen_rotation_title">Автоповорот экрана блокировки</string>
-    <string name="display_rotation_category_title">Режимы вращения</string>
-    <string name="display_rotation_0_title">0 градусов</string>
-    <string name="display_rotation_90_title">90 градусов</string>
-    <string name="display_rotation_180_title">180 градусов</string>
-    <string name="display_rotation_270_title">270 градусов</string>
     <string name="long_screen_settings_title">Полноэкранные приложения</string>
     <string name="long_screen_settings_summary">Принудительное использование полноэкранного режима устаревшими приложениями</string>
     <string name="long_screen_settings_no_apps">Нет приложений</string>

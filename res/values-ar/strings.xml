@@ -405,17 +405,6 @@
     <string name="preview_carrier_title">شركة المحمول</string>
     <string name="stats_collection_title">جمع الإحصائيات</string>
     <string name="stats_collection_summary">السماح بجمع إحصاءات التثبيت و إحصائيات الجهاز</string>
-    <string name="accelerometer_title">التدوير التلقائي للشاشة</string>
-    <string name="display_rotation_title">إعدادات التدوير</string>
-    <string name="display_rotation_enabled">التدوير التلقائي مُفعل</string>
-    <string name="display_rotation_disabled">التدوير التلقائي مُعطل</string>
-    <string name="display_rotation_unit">الدرجات</string>
-    <string name="display_lockscreen_rotation_title">تدوير شاشة القفل</string>
-    <string name="display_rotation_category_title">أوضاع التدوير</string>
-    <string name="display_rotation_0_title">0 درجة</string>
-    <string name="display_rotation_90_title">90 درجة</string>
-    <string name="display_rotation_180_title">180 درجة</string>
-    <string name="display_rotation_270_title">270 درجة</string>
     <string name="long_screen_settings_title">تطبيقات الشاشة الكاملة</string>
     <string name="long_screen_settings_summary">اجبِر التطبيقات القديمة على إستخدام نسبة العرض إلى الارتفاع على كامل الشاشة</string>
     <string name="long_screen_settings_no_apps">لا تطبيقات</string>

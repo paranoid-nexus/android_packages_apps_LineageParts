@@ -419,17 +419,6 @@
     <string name="preview_carrier_title">Operadora</string>
     <string name="stats_collection_title">Coleção de estatísticas</string>
     <string name="stats_collection_summary">Permitir a recolha de estatísticas de instalações e do dispositivo</string>
-    <string name="accelerometer_title">Rodar ecrã automaticamente</string>
-    <string name="display_rotation_title">Definições de rotação</string>
-    <string name="display_rotation_enabled">A rotação automática está ativada</string>
-    <string name="display_rotation_disabled">A rotação automática está desativada</string>
-    <string name="display_rotation_unit">graus</string>
-    <string name="display_lockscreen_rotation_title">Rodar o ecrã de bloqueio</string>
-    <string name="display_rotation_category_title">Modos de rotação</string>
-    <string name="display_rotation_0_title">0 graus</string>
-    <string name="display_rotation_90_title">90 graus</string>
-    <string name="display_rotation_180_title">180 graus</string>
-    <string name="display_rotation_270_title">270 graus</string>
     <string name="long_screen_settings_title">Aplicações em ecrã inteiro</string>
     <string name="long_screen_settings_summary">Forçar aplicações legadas a usarem a proporção de apresentação do ecrã inteiro</string>
     <string name="long_screen_settings_no_apps">Sem aplicações</string>

@@ -419,17 +419,6 @@
     <string name="preview_carrier_title">Operator</string>
     <string name="stats_collection_title">Kumpulan statistik</string>
     <string name="stats_collection_summary">Izinkan metrik pemasangan dan statistik perangkat untuk dikumpulkan</string>
-    <string name="accelerometer_title">Rotasi otomatis</string>
-    <string name="display_rotation_title">Setelan rotasi</string>
-    <string name="display_rotation_enabled">Rotasi otomatis aktif</string>
-    <string name="display_rotation_disabled">Rotasi otomatis tidak aktif</string>
-    <string name="display_rotation_unit">derajat</string>
-    <string name="display_lockscreen_rotation_title">Rotasi layar kunci</string>
-    <string name="display_rotation_category_title">Mode rotasi</string>
-    <string name="display_rotation_0_title">0 derajat</string>
-    <string name="display_rotation_90_title">90 derajat</string>
-    <string name="display_rotation_180_title">180 derajat</string>
-    <string name="display_rotation_270_title">270 derajat</string>
     <string name="long_screen_settings_title">Aplikasi layar penuh</string>
     <string name="long_screen_settings_summary">Paksa aplikasi lawas untuk menggunakan rasio aspek layar penuh</string>
     <string name="long_screen_settings_no_apps">Tidak ada aplikasi</string>

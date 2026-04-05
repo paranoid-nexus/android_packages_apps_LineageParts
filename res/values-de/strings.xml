@@ -436,17 +436,6 @@
     <string name="preview_carrier_title">Netzbetreiber</string>
     <string name="stats_collection_title">Statistikaufzeichnung</string>
     <string name="stats_collection_summary">Sammeln von Installations- und Gerätestatistiken erlauben</string>
-    <string name="accelerometer_title">Bildschirm automatisch drehen</string>
-    <string name="display_rotation_title">Bildschirmausrichtung</string>
-    <string name="display_rotation_enabled">Automatisch drehen ist aktiviert</string>
-    <string name="display_rotation_disabled">Automatisch drehen ist deaktiviert</string>
-    <string name="display_rotation_unit">Grad</string>
-    <string name="display_lockscreen_rotation_title">Sperrbildschirm drehen</string>
-    <string name="display_rotation_category_title">Bei Drehung um</string>
-    <string name="display_rotation_0_title">0 Grad</string>
-    <string name="display_rotation_90_title">90 Grad</string>
-    <string name="display_rotation_180_title">180 Grad</string>
-    <string name="display_rotation_270_title">270 Grad</string>
     <string name="long_screen_settings_title">Vollbild-Apps</string>
     <string name="long_screen_settings_summary">Ältere Anwendungen zu Vollbild zwingen</string>
     <string name="long_screen_settings_no_apps">Keine Apps</string>

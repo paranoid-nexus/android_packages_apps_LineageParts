@@ -379,17 +379,6 @@
     <string name="preview_carrier_title">Оператер</string>
     <string name="stats_collection_title">Скупљање статистике</string>
     <string name="stats_collection_summary">Дозволите скупљање података о инсталацијама и статистике уређаја.</string>
-    <string name="accelerometer_title">Аутоматска ротација екрана</string>
-    <string name="display_rotation_title">Подешавања ротације</string>
-    <string name="display_rotation_enabled">Аутоматска ротација је омогућена.</string>
-    <string name="display_rotation_disabled">Аутоматска ротација је онемогућена.</string>
-    <string name="display_rotation_unit">степени</string>
-    <string name="display_lockscreen_rotation_title">Ротација закључаног екрана</string>
-    <string name="display_rotation_category_title">Режими ротације</string>
-    <string name="display_rotation_0_title">0 степени</string>
-    <string name="display_rotation_90_title">90 степени</string>
-    <string name="display_rotation_180_title">180 степени</string>
-    <string name="display_rotation_270_title">270 степени</string>
     <string name="long_screen_settings_title">Апликације преко целог екрана</string>
     <string name="long_screen_settings_summary">Приморај застареле апликације да користе цео екран</string>
     <string name="charging_sounds_settings_title">Звук при пуњењу</string>

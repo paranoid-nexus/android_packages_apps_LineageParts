@@ -345,14 +345,6 @@
     <string name="preview_version_title">Version</string>
     <string name="preview_country_title">Land</string>
     <string name="preview_carrier_title">Operatör</string>
-    <string name="accelerometer_title">Rotera skärmen automatiskt</string>
-    <string name="display_rotation_unit">grader</string>
-    <string name="display_lockscreen_rotation_title">Rotera låsskärmen</string>
-    <string name="display_rotation_category_title">Rotationslägen</string>
-    <string name="display_rotation_0_title">0 grader</string>
-    <string name="display_rotation_90_title">90 grader</string>
-    <string name="display_rotation_180_title">180 grader</string>
-    <string name="display_rotation_270_title">270 grader</string>
     <string name="charging_sounds_settings_title">Laddningsljud</string>
     <string name="power_notifications_vibrate_title">Vibrera</string>
     <string name="charging_sounds_ringtone_silent">Tyst</string>

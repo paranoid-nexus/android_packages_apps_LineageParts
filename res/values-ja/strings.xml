@@ -436,17 +436,6 @@
     <string name="preview_carrier_title">キャリア</string>
     <string name="stats_collection_title">統計の収集</string>
     <string name="stats_collection_summary">インストール状況や端末の統計情報の収集を許可します</string>
-    <string name="accelerometer_title">画面の自動回転</string>
-    <string name="display_rotation_title">回転</string>
-    <string name="display_rotation_enabled">画面の自動回転は有効になっています</string>
-    <string name="display_rotation_disabled">無効</string>
-    <string name="display_rotation_unit">度</string>
-    <string name="display_lockscreen_rotation_title">ロック画面を回転</string>
-    <string name="display_rotation_category_title">回転のモード</string>
-    <string name="display_rotation_0_title">0度</string>
-    <string name="display_rotation_90_title">90度</string>
-    <string name="display_rotation_180_title">180度</string>
-    <string name="display_rotation_270_title">270度</string>
     <string name="long_screen_settings_title">全画面表示のアプリ</string>
     <string name="long_screen_settings_summary">従来のアプリに全画面表示のアスペクト比を使用させる</string>
     <string name="long_screen_settings_no_apps">なし</string>

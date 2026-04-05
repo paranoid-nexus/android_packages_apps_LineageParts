@@ -382,17 +382,6 @@ Informazio hau gailuaren abio bakoitzean bidaltzen da.\n\nBidalitako informazioa
     <string name="preview_carrier_title">Operadorea</string>
     <string name="stats_collection_title">Estatistiken bilketa</string>
     <string name="stats_collection_summary">Baimendu instalazioen ezarpenak eta gailuen estatistikak jasotzea</string>
-    <string name="accelerometer_title">Auto-biratu pantaila</string>
-    <string name="display_rotation_title">Biratzearen ezarpenak</string>
-    <string name="display_rotation_enabled">Biratze automatikoa gaituta dago</string>
-    <string name="display_rotation_disabled">Biratze automatikoa ezgaituta dago</string>
-    <string name="display_rotation_unit">gradu</string>
-    <string name="display_lockscreen_rotation_title">Biratu blokeo-pantaila</string>
-    <string name="display_rotation_category_title">Biraketa moduak</string>
-    <string name="display_rotation_0_title">0 gradu</string>
-    <string name="display_rotation_90_title">90 gradu</string>
-    <string name="display_rotation_180_title">180 gradu</string>
-    <string name="display_rotation_270_title">270 gradu</string>
     <string name="long_screen_settings_title">Pantaila osoko aplikazioak</string>
     <string name="long_screen_settings_summary">Behartu aplikazio zaharrei pantaila osoko aspektu erlazioa errabiltzera</string>
     <string name="charging_sounds_settings_title">Kargatze-soinuak</string>

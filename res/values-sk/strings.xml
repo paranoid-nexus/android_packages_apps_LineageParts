@@ -406,17 +406,6 @@
     <string name="preview_carrier_title">Operátor</string>
     <string name="stats_collection_title">Zbieranie štatistík</string>
     <string name="stats_collection_summary">Povoliť zbierať metriky inštalácie a štatistík zariadenia</string>
-    <string name="accelerometer_title">Automaticky otáčať obrazovku</string>
-    <string name="display_rotation_title">Nastavenia otáčania</string>
-    <string name="display_rotation_enabled">Automatické otáčanie je povolené</string>
-    <string name="display_rotation_disabled">Automatické otáčanie je zakázané</string>
-    <string name="display_rotation_unit">stupňov</string>
-    <string name="display_lockscreen_rotation_title">Otáčať obrazovku uzamknutia</string>
-    <string name="display_rotation_category_title">Režimy otáčania</string>
-    <string name="display_rotation_0_title">0 stupňov</string>
-    <string name="display_rotation_90_title">90 stupňov</string>
-    <string name="display_rotation_180_title">180 stupňov</string>
-    <string name="display_rotation_270_title">270 stupňov</string>
     <string name="long_screen_settings_title">Aplikácie na celú obrazovku</string>
     <string name="long_screen_settings_summary">Prinútiť staršie aplikácie na použitie pomerov na celú obrazovku</string>
     <string name="long_screen_settings_no_apps">Žiadne aplikácie</string>

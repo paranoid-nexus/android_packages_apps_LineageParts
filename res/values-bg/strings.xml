@@ -411,17 +411,6 @@
     <string name="preview_carrier_title">Оператор</string>
     <string name="stats_collection_title">Събиране на статистики</string>
     <string name="stats_collection_summary">Позволява събирането на показатели и статистически данни за устройството</string>
-    <string name="accelerometer_title">Автоматично завъртане на екрана</string>
-    <string name="display_rotation_title">Настройки на завъртане</string>
-    <string name="display_rotation_enabled">Автоматичното завъртене е активирано</string>
-    <string name="display_rotation_disabled">Автоматичното завъртене е деактивирано</string>
-    <string name="display_rotation_unit">градуса</string>
-    <string name="display_lockscreen_rotation_title">Завъртане на заключен екран</string>
-    <string name="display_rotation_category_title">Режими на завъртане</string>
-    <string name="display_rotation_0_title">0 градуса</string>
-    <string name="display_rotation_90_title">90 градуса</string>
-    <string name="display_rotation_180_title">180 градуса</string>
-    <string name="display_rotation_270_title">270 градуса</string>
     <string name="long_screen_settings_title">Приложения на цял екран</string>
     <string name="long_screen_settings_summary">Активираъ приложенията да използват пропорциите за цял екран</string>
     <string name="long_screen_settings_no_apps">Няма приложения</string>

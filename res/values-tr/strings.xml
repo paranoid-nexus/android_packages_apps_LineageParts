@@ -438,17 +438,6 @@
     <string name="preview_carrier_title">Operatör</string>
     <string name="stats_collection_title">İstatistikler</string>
     <string name="stats_collection_summary">Yükleme ölçümlerinin ve cihaz istatistiklerinin toplanmasına izin ver</string>
-    <string name="accelerometer_title">Ekranı otomatik döndür</string>
-    <string name="display_rotation_title">Döndürme ayarları</string>
-    <string name="display_rotation_enabled">Otomatik döndürme etkin</string>
-    <string name="display_rotation_disabled">Otomatik döndürme devre dışı</string>
-    <string name="display_rotation_unit">derece</string>
-    <string name="display_lockscreen_rotation_title">Kilit ekranını döndür</string>
-    <string name="display_rotation_category_title">Döndürme modları</string>
-    <string name="display_rotation_0_title">0 derece</string>
-    <string name="display_rotation_90_title">90 derece</string>
-    <string name="display_rotation_180_title">180 derece</string>
-    <string name="display_rotation_270_title">270 derece</string>
     <string name="long_screen_settings_title">Tam ekran uygulamaları</string>
     <string name="long_screen_settings_summary">Eski uygulamaların tam ekranın en boy oranını kullanmasına zorlanır</string>
     <string name="long_screen_settings_no_apps">Uygulama yok</string>

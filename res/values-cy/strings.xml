@@ -432,17 +432,6 @@
     <string name="preview_carrier_title">Darparwr gwasanaeth</string>
     <string name="stats_collection_title">Casglu ystadegau</string>
     <string name="stats_collection_summary">Caniatáu casglu mesuryddion gosodiadau ac ystadegau\'r ddyfais</string>
-    <string name="accelerometer_title">Troi\'r sgrin yn awtomatig</string>
-    <string name="display_rotation_title">Gosodiadau cylchdroi</string>
-    <string name="display_rotation_enabled">Mae cylchdroi yn awtomatig wedi\'i alluogi</string>
-    <string name="display_rotation_disabled">Mae cylchdroi yn awtomatig wedi\'i analluogi</string>
-    <string name="display_rotation_unit">graddau</string>
-    <string name="display_lockscreen_rotation_title">Cylchdroi\'r sgrin cloi</string>
-    <string name="display_rotation_category_title">Moddau cylchdroi</string>
-    <string name="display_rotation_0_title">0 gradd</string>
-    <string name="display_rotation_90_title">90 gradd</string>
-    <string name="display_rotation_180_title">180 gradd</string>
-    <string name="display_rotation_270_title">270 gradd</string>
     <string name="long_screen_settings_title">Apiau sgrin lawn</string>
     <string name="long_screen_settings_summary">Gorfodi apiau cymyd i ddefnyddio cymhareb agwedd sgrin lawn</string>
     <string name="long_screen_settings_no_apps">Dim apiau</string>

@@ -435,17 +435,6 @@
     <string name="preview_carrier_title">Operadora</string>
     <string name="stats_collection_title">Coleção de estatísticas</string>
     <string name="stats_collection_summary">Permitir que estatísticas de instalações e de dispositivo sejam coletadas</string>
-    <string name="accelerometer_title">Girar automaticamente a tela</string>
-    <string name="display_rotation_title">Configurações de rotação</string>
-    <string name="display_rotation_enabled">A rotação automática está ativada</string>
-    <string name="display_rotation_disabled">A rotação automática está desativada</string>
-    <string name="display_rotation_unit">graus</string>
-    <string name="display_lockscreen_rotation_title">Girar tela de bloqueio</string>
-    <string name="display_rotation_category_title">Modos de rotação</string>
-    <string name="display_rotation_0_title">0 grau</string>
-    <string name="display_rotation_90_title">90 graus</string>
-    <string name="display_rotation_180_title">180 graus</string>
-    <string name="display_rotation_270_title">270 graus</string>
     <string name="long_screen_settings_title">Apps em tela cheia</string>
     <string name="long_screen_settings_summary">Forçar os apps preexistentes a utilizarem a proporção em tela cheia</string>
     <string name="long_screen_settings_no_apps">Nenhum app</string>

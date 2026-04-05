@@ -438,17 +438,6 @@
     <string name="preview_carrier_title">Operadôr</string>
     <string name="stats_collection_title">Racuelte statistichis</string>
     <string name="stats_collection_summary">Permet la racuelte di metrichis des instalazions e statistichis sui dispositîfs</string>
-    <string name="accelerometer_title">Rotazion automatiche schermi</string>
-    <string name="display_rotation_title">Impostazions de rotazion</string>
-    <string name="display_rotation_enabled">La rotazion automatiche e je ative</string>
-    <string name="display_rotation_disabled">La rotazion automatiche e je disativade</string>
-    <string name="display_rotation_unit">grâts</string>
-    <string name="display_lockscreen_rotation_title">Volte il bloc dal schermi</string>
-    <string name="display_rotation_category_title">Modalitâts di rotazion</string>
-    <string name="display_rotation_0_title">0 grâts</string>
-    <string name="display_rotation_90_title">90 grâts</string>
-    <string name="display_rotation_180_title">180 grâts</string>
-    <string name="display_rotation_270_title">270 grâts</string>
     <string name="long_screen_settings_title">Aplicazion a plen schermi</string>
     <string name="long_screen_settings_summary">Sfuarce lis aplicazion a doprâ lis proporzions dal schermi intîr</string>
     <string name="long_screen_settings_no_apps">Nissune aplicazion</string>

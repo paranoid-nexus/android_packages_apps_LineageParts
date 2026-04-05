@@ -419,17 +419,6 @@
     <string name="preview_carrier_title">Símafyrirtæki</string>
     <string name="stats_collection_title">Söfnun tölfræði</string>
     <string name="stats_collection_summary">Leyfa söfnun upplýsinga um uppsetningu og tölfræði tækisins</string>
-    <string name="accelerometer_title">Snúa skjánum sjálfvirkt</string>
-    <string name="display_rotation_title">Stillingar á snúningi</string>
-    <string name="display_rotation_enabled">Sjálfvirkur snúningur er virkur</string>
-    <string name="display_rotation_disabled">Sjálfvirkur snúningur er óvirkur</string>
-    <string name="display_rotation_unit">gráður</string>
-    <string name="display_lockscreen_rotation_title">Snúa læsiskjá</string>
-    <string name="display_rotation_category_title">Snúningshamir</string>
-    <string name="display_rotation_0_title">gráður</string>
-    <string name="display_rotation_90_title">gráður</string>
-    <string name="display_rotation_180_title">gráður</string>
-    <string name="display_rotation_270_title">gráður</string>
     <string name="long_screen_settings_title">Skjáfylliforrit</string>
     <string name="long_screen_settings_summary">Þvinga eldri forrit til að nota stærðarhlutföll skjáfylli</string>
     <string name="long_screen_settings_no_apps">Engin forrit</string>

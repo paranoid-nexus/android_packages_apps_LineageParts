@@ -436,17 +436,6 @@
     <string name="preview_carrier_title">Operátor</string>
     <string name="stats_collection_title">Sbírka statistik</string>
     <string name="stats_collection_summary">Povolit shromažďování metriky a statistiky zařízení</string>
-    <string name="accelerometer_title">Automatické otočení obrazovky</string>
-    <string name="display_rotation_title">Nastavení otáčení</string>
-    <string name="display_rotation_enabled">Automatické otáčení povoleno</string>
-    <string name="display_rotation_disabled">Automatické otáčení zakázáno</string>
-    <string name="display_rotation_unit">stupně</string>
-    <string name="display_lockscreen_rotation_title">Otáčet obrazovku zámku</string>
-    <string name="display_rotation_category_title">Režim otáčení</string>
-    <string name="display_rotation_0_title">0°</string>
-    <string name="display_rotation_90_title">90°</string>
-    <string name="display_rotation_180_title">180°</string>
-    <string name="display_rotation_270_title">270°</string>
     <string name="long_screen_settings_title">Aplikace na celou obrazovku</string>
     <string name="long_screen_settings_summary">Přimět starší aplikace na použití poměrů na celou obrazovku</string>
     <string name="long_screen_settings_no_apps">Žádné aplikace</string>

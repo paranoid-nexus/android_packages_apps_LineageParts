@@ -408,17 +408,6 @@ andmete eelvaade.</string>
     <string name="preview_carrier_title">Operaator</string>
     <string name="stats_collection_title">Andmete kogumine</string>
     <string name="stats_collection_summary">Luba installimõõdikute ja seadme statistika kogumist</string>
-    <string name="accelerometer_title">Pööra ekraani automaatselt</string>
-    <string name="display_rotation_title">Pööramise seaded</string>
-    <string name="display_rotation_enabled">Automaatne pööramine lubatud</string>
-    <string name="display_rotation_disabled">Automaatne pööramine keelatud</string>
-    <string name="display_rotation_unit">kraadi</string>
-    <string name="display_lockscreen_rotation_title">Pööra lukustuskuva</string>
-    <string name="display_rotation_category_title">Pööramisrežiimid</string>
-    <string name="display_rotation_0_title">0 kraadi</string>
-    <string name="display_rotation_90_title">90 kraadi</string>
-    <string name="display_rotation_180_title">180 kraadi</string>
-    <string name="display_rotation_270_title">270 kraadi</string>
     <string name="long_screen_settings_title">Täisekraanis rakendused</string>
     <string name="long_screen_settings_summary">Luba pärandrakendustel kasutada täielikku ekraani kuvasuhet</string>
     <string name="long_screen_settings_no_apps">Rakendusi pole</string>

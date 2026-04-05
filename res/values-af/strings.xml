@@ -348,17 +348,6 @@
     <string name="preview_carrier_title">Diensverskaffer</string>
     <string name="stats_collection_title">Statistiek versameling</string>
     <string name="stats_collection_summary">Laat installasie- en toestelstatistiekversameling toe</string>
-    <string name="accelerometer_title">Outo-roteer skerm</string>
-    <string name="display_rotation_title">Rotasie instellings</string>
-    <string name="display_rotation_enabled">Outo-rotasie is geaktiveer</string>
-    <string name="display_rotation_disabled">Outo-rotasie is gedeaktiveer</string>
-    <string name="display_rotation_unit">grade</string>
-    <string name="display_lockscreen_rotation_title">Roteer slotskerm</string>
-    <string name="display_rotation_category_title">Rotasie modusse</string>
-    <string name="display_rotation_0_title">0 grade</string>
-    <string name="display_rotation_90_title">90 grade</string>
-    <string name="display_rotation_180_title">180 grade</string>
-    <string name="display_rotation_270_title">270 grade</string>
     <string name="charging_sounds_settings_title">Laai klanke</string>
     <string name="charging_sounds_summary">Speel \'n klank met die koppeling of ontkoppeling van \'n kragbron</string>
     <string name="power_notifications_vibrate_title">Vibreer</string>

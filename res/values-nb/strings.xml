@@ -348,17 +348,6 @@
     <string name="preview_carrier_title">Operatør</string>
     <string name="stats_collection_title">Statistikkinnsamling</string>
     <string name="stats_collection_summary">Tillat samling av installasjonsberegninger og enhetetsstatistikk</string>
-    <string name="accelerometer_title">Auto-rotasjon skjerm</string>
-    <string name="display_rotation_title">Rotasjonsinnstillinger</string>
-    <string name="display_rotation_enabled">Auto-rotasjon er aktivert</string>
-    <string name="display_rotation_disabled">Auto-rotasjon er deaktivert</string>
-    <string name="display_rotation_unit">grader</string>
-    <string name="display_lockscreen_rotation_title">Rotere låseskjermen</string>
-    <string name="display_rotation_category_title">Rotasjonsmoduser</string>
-    <string name="display_rotation_0_title">0 grader</string>
-    <string name="display_rotation_90_title">90 grader</string>
-    <string name="display_rotation_180_title">180 grader</string>
-    <string name="display_rotation_270_title">270 grader</string>
     <string name="charging_sounds_settings_title">Lade-lyder</string>
     <string name="charging_sounds_summary">Spill av en lyd når du kobler til eller fra en strømkilde</string>
     <string name="power_notifications_vibrate_title">Vibrer</string>
