@@ -76,8 +76,8 @@
           android:fragment="org.lineageos.lineageparts.gestures.TouchscreenGestureSettings"
           lineage:xmlRes="@xml/touchscreen_gesture_settings" />
 
-    <part android:key="trust_interface"
+<!-- <part android:key="trust_interface"
           android:title="@string/trust_title"
           android:fragment="org.lineageos.lineageparts.trust.TrustPreferences"
-          lineage:xmlRes="@xml/trust_preferences" />
+          lineage:xmlRes="@xml/trust_preferences" /> -->
 </parts-catalog>
